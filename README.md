@@ -29,4 +29,8 @@ Abaixo estão os diagramas UML desenvolvidos para o sistema, conforme solicitado
 
 ### Diagrama de Componentes
 
+<img width="700px" src="imagens/Diagrama-de-Caso-de-Uso.jpg">
+
 ### Diagrama de Implantação
+
+<img width="700px" src="imagens/Diagrama-de-Implantação.jpg">
